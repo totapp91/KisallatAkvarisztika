@@ -1,4 +1,147 @@
-﻿sku,title,br_price,category,ImageUrl
-AN CF 04 214,AQUATIC NATURE AFRICAN CICLID ENERGY FOOD MEDIUM 320ML -130GR,2910,AKVARISZTIKA>HALELESÉGEK,
-ZD-25336,ÁGYÚ DEKORÁCIÓ,1520,AKVARISZTIKA>DEKORÁCIÓ,
-EL330231,Easy-Life AquaMaker akváriumi vízkezelő 250ml,2510,AKVARISZTIKA>VÍZKEZELÉS>VÍZKEZELŐK,
+﻿sku,title,br_price,category
+(DIV)119718,Diversa Startup 80 LED akvárium szett szögletes,51399,Akvarisztika>Akvárium szettek>Gyári szettek
+(AEL)017-6015,AquaEl Fan 1 Plus akváriumi belső szűrő,5899,Akvarisztika>Szűrés>Belső szűrők
+(AEL)017-6016,AquaEl Fan 2 Plus akváriumi belső szűrő,7899,Akvarisztika>Szűrés>Belső szűrők
+(AEL)017-6017,AquaEl Fan 3 Plus akváriumi belső szűrő,9719,Akvarisztika>Szűrés>Belső szűrők
+(AEL)101786,AquaEl Fan Mini Plus akváriumi belső szűrő,5189,Akvarisztika>Szűrés>Belső szűrők
+(JKA)141.12j,Atman JKA - IF-300 akváriumi belső szűrő 100l/h,3809,Akvarisztika>Szűrés>Belső szűrők
+(JKA)141.13j,Atman JKA - IF301 akváriumi belső szűrő,3909,Akvarisztika>Szűrés>Belső szűrők
+(JKA)141.14j,Atman JKA - IF302 akváriumi belső szűrő,3999,Akvarisztika>Szűrés>Belső szűrők
+(JKA)141.15j,Atman JKA - IF303 akváriumi belső szűrő,5499,Akvarisztika>Szűrés>Belső szűrők
+(JKA)141.16j,Atman JKA - IF304 akváriumi belső szűrő,5599,Akvarisztika>Szűrés>Belső szűrők
+(EH)2401020,Eheim Aquaball 60 akváriumi belső szűrő,11999,Akvarisztika>Szűrés>Belső szűrők
+(EH)2402020,Eheim Aquaball 130 akváriumi belső szűrő,12999,Akvarisztika>Szűrés>Belső szűrők
+(EH)2403020,Eheim Aquaball 180 akváriumi belső szűrő,13999,Akvarisztika>Szűrés>Belső szűrők
+(EH)2411020,Eheim Biopower 160 akváriumi belső szűrő,13899,Akvarisztika>Szűrés>Belső szűrők
+(EH)2412020,Eheim Biopower 200 akváriumi belső szűrő,16899,Akvarisztika>Szűrés>Belső szűrők
+(EH)2413020,Eheim Biopower 240 akváriumi belső szűrő,19899,Akvarisztika>Szűrés>Belső szűrők
+(EH)2006020,Eheim PickUp 45 akváriumi belső szűrő,6189,Akvarisztika>Szűrés>Belső szűrők
+(EH)2010020,Eheim PickUp 160 akváriumi belső szűrő,8489,Akvarisztika>Szűrés>Belső szűrők
+(EH)2012020,Eheim PickUp 200 akváriumi belső szűrő,10689,Akvarisztika>Szűrés>Belső szűrők
+(EH)2008020,Eheim PickUp 60 akváriumi belső szűrő,7489,Akvarisztika>Szűrés>Belső szűrők
+JBL60973,JBL CristalProfi i100 Greenline akváriumi belső szűrő,19989,Akvarisztika>Szűrés>Belső szűrők
+JBL60974,JBL CristalProfi i200 Greenline akváriumi belső szűrő,21599,Akvarisztika>Szűrés>Belső szűrők
+JBL60971,JBL CristalProfi i60 Greenline akváriumi belső szűrő,10989,Akvarisztika>Szűrés>Belső szűrők
+JBL60972,JBL CristalProfi i80 Greenline akváriumi belső szűrő,13999,Akvarisztika>Szűrés>Belső szűrők
+(JBL)60283,JBL CristalProfi e1502 greenline,62899,Akvarisztika>Szűrés>Külső szűrők
+(JBL)60284,JBL CristalProfi e1902 greenline,88899,Akvarisztika>Szűrés>Külső szűrők
+(JBL)60280,JBL CristalProfi e402 greenline,32889,Akvarisztika>Szűrés>Külső szűrők
+(JBL)60281,JBL CristalProfi e702 greenline,36889,Akvarisztika>Szűrés>Külső szűrők
+(JBL)60282,JBL CristalProfi e902 greenline,43999,Akvarisztika>Szűrés>Külső szűrők
+(JKA)140.40j,Atman/JK Animals automata akvárium fűtő 25W,4539,Akvarisztika>Fűtés/Hűtés>Fűtés
+(JKA)140.41j,Atman/JK Animals automata akvárium fűtő 50W,4599,Akvarisztika>Fűtés/Hűtés>Fűtés
+(JKA)140.42j,Atman/JK Animals automata akvárium fűtő 75W,4599,Akvarisztika>Fűtés/Hűtés>Fűtés
+(JKA)140.43j,Atman/JK Animals automata akvárium fűtő 100W,4699,Akvarisztika>Fűtés/Hűtés>Fűtés
+(JKA)140.44j,Atman/JK Animals automata akvárium fűtő 150W,4799,Akvarisztika>Fűtés/Hűtés>Fűtés
+(JKA)140.45j,Atman/JK Animals automata akvárium fűtő 200W,6499,Akvarisztika>Fűtés/Hűtés>Fűtés
+(JKA)140.46j,Atman/JK Animals automata akvárium fűtő 250W,6799,Akvarisztika>Fűtés/Hűtés>Fűtés
+(JKA)140.47j,Atman/JK Animals automata akvárium fűtő 300W,6899,Akvarisztika>Fűtés/Hűtés>Fűtés
+(JKA)140.48j,Atman/JK Animals automata akvárium fűtő 350W,6999,Akvarisztika>Fűtés/Hűtés>Fűtés
+(EH)3611010,Eheim automata akvárium fűtő 25W,5989,Akvarisztika>Fűtés/Hűtés>Fűtés
+(EH)3612010,Eheim automata akvárium fűtő 50W,6289,Akvarisztika>Fűtés/Hűtés>Fűtés
+(EH)3613010,Eheim automata akvárium fűtő 75W,6789,Akvarisztika>Fűtés/Hűtés>Fűtés
+(EH)3614010,Eheim automata akvárium fűtő 100W,7389,Akvarisztika>Fűtés/Hűtés>Fűtés
+(EH)3616010,Eheim automata akvárium fűtő 150W,7789,Akvarisztika>Fűtés/Hűtés>Fűtés
+(EH)3617010,Eheim automata akvárium fűtő 200W,8189,Akvarisztika>Fűtés/Hűtés>Fűtés
+(EH)3618010,Eheim automata akvárium fűtő 250W,8489,Akvarisztika>Fűtés/Hűtés>Fűtés
+(EH)3619010,Eheim automata akvárium fűtő 300W,8989,Akvarisztika>Fűtés/Hűtés>Fűtés
+(AEL)114958,AquaEl Shrimp Smart 20 akvárium szett fehér,23489,Akvarisztika>Akvárium szettek>Gyári szettek
+(AEL)122978,AquaEl Shrimp Smart 20 akvárium szett fekete,23489,Akvarisztika>Akvárium szettek>Gyári szettek
+ZD-25336,ÁGYÚ dekoráció,2799,Akvarisztika>Dekoráció>Dísztárgyak>Műgyanta díszek
+(JKA)140.40j,Atman/JK Animals automata akvárium fűtő 25W,4539,Akvarisztika>Fűtés
+(JKA)140.41j,Atman/JK Animals automata akvárium fűtő 50W,4599,Akvarisztika>Fűtés
+(JKA)140.42j,Atman/JK Animals automata akvárium fűtő 75W,4599,Akvarisztika>Fűtés
+(JKA)140.43j,Atman/JK Animals automata akvárium fűtő 100W,4699,Akvarisztika>Fűtés
+(JKA)140.44j,Atman/JK Animals automata akvárium fűtő 150W,4799,Akvarisztika>Fűtés
+(JKA)140.45j,Atman/JK Animals automata akvárium fűtő 200W,6499,Akvarisztika>Fűtés
+(JKA)140.46j,Atman/JK Animals automata akvárium fűtő 250W,6799,Akvarisztika>Fűtés
+(JKA)140.47j,Atman/JK Animals automata akvárium fűtő 300W,6899,Akvarisztika>Fűtés
+(JKA)140.48j,Atman/JK Animals automata akvárium fűtő 350W,6999,Akvarisztika>Fűtés
+(EH)3611010,Eheim automata akvárium fűtő 25W,5989,Akvarisztika>Fűtés
+(EH)3612010,Eheim automata akvárium fűtő 50W,6289,Akvarisztika>Fűtés
+(EH)3613010,Eheim automata akvárium fűtő 75W,6789,Akvarisztika>Fűtés
+(EH)3614010,Eheim automata akvárium fűtő 100W,7389,Akvarisztika>Fűtés
+(EH)3616010,Eheim automata akvárium fűtő 150W,7789,Akvarisztika>Fűtés
+(EH)3617010,Eheim automata akvárium fűtő 200W,8189,Akvarisztika>Fűtés
+(EH)3618010,Eheim automata akvárium fűtő 250W,8489,Akvarisztika>Fűtés
+(EH)3619010,Eheim automata akvárium fűtő 300W,8989,Akvarisztika>Fűtés
+(AL)01,AquaLine AquaPlant tápanyag tabletta 10 db,190,"Akvarisztika>Növénytápok, táptalajok"
+(AL)02,Aqua Line Fe - Vas növénytáp 100 ml,1960,"Akvarisztika>Növénytápok, táptalajok"
+(AL)03,AquaLine Starter 100ml,2290,"Akvarisztika>Vízkezelés, vízkémia"
+(AL)04,AquaLine TF Macro növénytápsó folyadék 500 ml,2200,"Akvarisztika>Növénytápok, táptalajok"
+(AL)05,AquaLine TF MatrixTrop 1L (apró szemű szűrőanyag),2550,Akvarisztika>Szűrőanyagok
+(AL)06,AquaLine TF Planter növénytápsó 500 ml,3200,"Akvarisztika>Növénytápok, táptalajok"
+(AL)07,AquaLine TF MatrixTrop 1l (nagy szemű szűrőanyag),2550,Akvarisztika>Szűrőanyagok
+(AL)08,AquaLine TF Nitrat - kiegészítő növénytápsó folyadék 500 ml,2500,"Akvarisztika>Növénytápok, táptalajok"
+(AL)09,AquaLine TF Phosphate - kiegészítő növénytápsó folyadék 500 ml,2200,"Akvarisztika>Növénytápok, táptalajok"
+(AL)10,Liqui Carbo folyékony CO2 500 ml,3250,"Akvarisztika>Növénytápok, táptalajok"
+(AL)11,AquaLine Liquid Gold 100 ml,1330,"Akvarisztika>Vízkezelés, vízkémia"
+(EL)01,Easy-Life EasyCarbo folyékony szén akváriumi növényeknek  250 ml,2090,"Akvarisztika>Növénytápok, táptalajok"
+(EL)02,Easy-Life Ferro vastartalmú akváriumi növénytáp 250 ml,2090,"Akvarisztika>Növénytápok, táptalajok"
+(EL)03,Easy-Life ProFito akváriumi növénytápsó 250 ml,2090,"Akvarisztika>Növénytápok, táptalajok"
+(EL)04,Easy Life BioExit Green - Természetes algagátló,2290,"Akvarisztika>Vízkezelés, vízkémia"
+(EL)05,Easy Life Catappa-X 250 ml,2190,"Akvarisztika>Növénytápok, táptalajok"
+(EL)06,Easy Life Fosfo 250 ml,2090,"Akvarisztika>Növénytápok, táptalajok"
+(EL)07,Easy-Life Kalium-Potassium akváriumi makro növénytáp 250 ml,2090,"Akvarisztika>Növénytápok, táptalajok"
+(EL)08,Easy Life Nitro 250 ml,2090,"Akvarisztika>Növénytápok, táptalajok"
+JBL67024,JBL Manado aljzat - 10 liter,5189,"Akvarisztika>Növénytápok, táptalajok"
+JBL67025,JBL Manado aljzat - 25 liter,10389,"Akvarisztika>Növénytápok, táptalajok"
+JBL67022,JBL Manado aljzat - 3 liter,2689,"Akvarisztika>Növénytápok, táptalajok"
+JBL67037,JBL Manado Dark aljzat - 10 liter,7589,"Akvarisztika>Növénytápok, táptalajok"
+N301047,Neptun Antiklór vízkezelő 10 ml,249,"Akvarisztika>Vízkezelés, vízkémia"
+N301122,Neptun teknős szemcsepp 10 ml,249,"Terrarisztika>Gyógyszerek, vitaminok"
+N301016,Neptun Parakill gyógykészítmény 10 ml,249,"Akvarisztika>Gyógyszerek, vitaminok"
+N301023,Neptun Parakill Turbó gyógykészítmény 10 ml,249,"Akvarisztika>Gyógyszerek, vitaminok"
+N301092,Neptun Metilénkék általános fertőtlenítő 10ml,249,"Akvarisztika>Vízkezelés, vízkémia"
+N301054,Neptun Növénytápsó akváriumba 10 ml,249,"Akvarisztika>Növénytápok, táptalajok"
+N301115,Neptun Oxigéncsepp akváriumba 10 ml,249,"Akvarisztika>Vízkezelés, vízkémia"
+N301085,Neptun Malachitzöld fertőtlenítő szer 10 ml,249,"Akvarisztika>Vízkezelés, vízkémia"
+N301108,Neptun Gyorsfürdő gyógykészítmény 10 ml,249,"Akvarisztika>Gyógyszerek, vitaminok"
+N301030,Neptun Xanta-Mix fertőtlenítő szer 10 ml,249,"Akvarisztika>Gyógyszerek, vitaminok"
+SE3040,Sera Aquatan vízkezelő - 100 ml,1389,"Akvarisztika>Vízkezelés, vízkémia"
+SE3050,Sera Aquatan vízkezelő - 250 ml,2389,"Akvarisztika>Vízkezelés, vízkémia"
+SE3030,Sera Aquatan vízkezelő - 50 ml,899,"Akvarisztika>Vízkezelés, vízkémia"
+SE3740,Sera Bio Nitrivec élőflóra - 100 ml,2589,"Akvarisztika>Vízkezelés, vízkémia"
+SE3750,Sera Bio Nitrivec élőflóra - 250 ml,3679,"Akvarisztika>Vízkezelés, vízkémia"
+SE3730,Sera Bio Nitrivec élőflóra - 50 ml,1679,"Akvarisztika>Vízkezelés, vízkémia"
+SE3810,Sera KH/pH-Plus vízkezelő - 100 ml,1979,"Akvarisztika>Vízkezelés, vízkémia"
+SE3540,Sera pH/KH-Minus vízkezelő - 100 ml,1789,"Akvarisztika>Vízkezelés, vízkémia"
+SE3390,Sera Phosvec Clear vízkezelő - 100 ml,1999,"Akvarisztika>Vízkezelés, vízkémia"
+SE3001,Sera Toxivec vízkezelő - 100 ml,1489,"Akvarisztika>Vízkezelés, vízkémia"
+SE3240,Sera Florena növénytápsó - 100 ml,1699,"Akvarisztika>Vízkezelés, vízkémia"
+SE3250,Sera Florena növénytápsó - 250 ml,3199,"Akvarisztika>Vízkezelés, vízkémia"
+SE3215,Sera Florena növénytápsó - 50 ml,989,"Akvarisztika>Vízkezelés, vízkémia"
+N406982,Neptun pH teszt akváriumhoz,489,Akvarisztika>Víztesztek
+N406975,Neptun vízkeménység mérő készlet,689,Akvarisztika>Víztesztek
+JBL23023,JBL Algol algagátló - 250 ml,3489,"Akvarisztika>Vízkezelés, vízkémia"
+(ISTA)I691,Ista CO2 indikátorfolyadék,1589,Akvarisztika>Víztesztek
+SE8476,Sera Siporax Mini szűrőanyag - 270 g,4655,Akvarisztika>Szűrőanyagok
+SE277,Sera Vipan Nature lemezes díszhaleleség - 100 ml,1070,Akvarisztika>Haleleségek
+SE281,Sera Vipan Nature lemezes díszhaleleség - 250 ml,2315,Akvarisztika>Haleleségek
+SE201,Sera Vipagran díszhaleleség - 100 ml,1310,Akvarisztika>Haleleségek
+SE202,Sera Vipagran díszhaleleség - 250 ml,2560,Akvarisztika>Haleleségek
+SE325,Sera Goldy díszhaleleség - 100 ml,870,Akvarisztika>Haleleségek
+SE331,Sera Goldy díszhaleleség - 250 ml,1815,Akvarisztika>Haleleségek
+SE291,Sera San lemezes díszhaleleség - 100 ml,1395,Akvarisztika>Haleleségek
+SE295,Sera San lemezes díszhaleleség - 250 ml,3155,Akvarisztika>Haleleségek
+SE392,Sera Granugreen díszhaleleség - 250 ml,2935,Akvarisztika>Haleleségek
+SE402,Sera Granured díszhaleleség - 250 ml,2935,Akvarisztika>Haleleségek
+SE514,Sera Vipachips tablettás díszhaleleség - 100 ml,1955,Akvarisztika>Haleleségek
+SE515,Sera Vipachips tablettás díszhaleleség - 250 ml,3655,Akvarisztika>Haleleségek
+SE510,Sera Wels-chips tablettás díszhaleleség - 100 ml,1765,Akvarisztika>Haleleségek
+SE511,Sera Wels-chips tablettás díszhaleleség - 250 ml,3505,Akvarisztika>Haleleségek
+(SE)01,Sera aljzattisztító (háromszög) 14cm,2960,Akvarisztika>Akvárium tisztítás
+(SE)02,Sera aljzattisztító (kerek) 25cm,2960,Akvarisztika>Akvárium tisztítás
+(SE)03,Sera Crabs Natural 100 ml,2265,Akvarisztika>Haleleségek
+(SE)04,Sera Goldy Color Spirulina - 100 ml,915,Akvarisztika>Haleleségek
+(SE)05,Sera Goldy Color Spirulina - 250 ml,1895,Akvarisztika>Haleleségek
+(SE)06,Sera Goldy Gran - 100 ml,915,Akvarisztika>Haleleségek
+(SE)07,Sera Goldy Gran - 250 ml,1895,Akvarisztika>Haleleségek
+(SE)08,Sera Koi Royal Medium - 1000 ml,2645,Akvarisztika>Tavi halak
+(SE)09,Sera Koi Royal Mini - 1000 ml,2765,Akvarisztika>Tavi halak
+(SE)10,Sera Pond Color Sticks - 1000 ml,1940,Akvarisztika>Tavi halak
+(SE)11,Sera Pond Granulat - 1000 ml,1930,Akvarisztika>Tavi halak
+(SE)12,Sera Shrimps Natural - 100 ml,2265,Akvarisztika>Haleleségek
+(SE)13,Sera Vipagran Baby - 100 ml,2480,Akvarisztika>Haleleségek
+(SE)14,Sera Flora Nature - 100 ml,1300,Akvarisztika>Haleleségek
+(SE)15,Sera Flora Nature - 250 ml,2605,Akvarisztika>Haleleségek
